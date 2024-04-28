@@ -1,5 +1,11 @@
+import PageHeader from "./PageHeader";
+
 function App() {
-  return 'Hi'
+  return (
+    <>
+      <PageHeader />
+    </>
+  );
 }
 
-export default App
+export default App;
